@@ -1,0 +1,20 @@
+# secrets / local config
+.env
+*.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# MySQL Workbench / editor files
+*.mwb.bak
+*.lock
+.vscode/
+.idea/
+.DS_Store
+
+# raw data exports and media
+*.csv
+*.xlsx
+*.mp4
